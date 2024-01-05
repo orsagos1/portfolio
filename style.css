@@ -1,0 +1,77 @@
+.h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  letter-spacing: 1px;
+  color: #0A2342;
+  text-transform: uppercase;
+  text-align: center;
+  height: auto;
+}
+
+.h3 {
+  font-family: Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+  color: #0A2342;
+  text-transform: uppercase;
+  margin-top: -17px;
+  text-align: center;
+}
+
+.header {
+  background-color: #F2F7F2;
+  padding: 15px;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.sectionTitle {
+  font-family: Helvetica, sans-serif;
+  color: #0A2342;
+  font-size: 20px;
+  text-align: center;
+}
+
+.p {
+  font-family: Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+  margin-left: auto;
+  margin-right: auto; 
+  color: #0A2342;
+}
+
+a:link {
+  text-decoration: none;
+  color: #ADAABF;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #493843;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ADAABF;
+}
+
+a:active {
+  text-decoration: none;
+  color: #ADAABF;
+}
+
+.footer {
+  background-color: #F2F7F2;
+  padding: 10px;
+  font-family: Helvetica, sans-serif;
+  font-size: 10px;
+  text-align: right;
+  height: auto;
+  
+}
